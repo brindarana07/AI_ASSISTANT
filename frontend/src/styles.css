@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  min-width: 320px;
+  color: #244034;
+  background: #f8f3e8;
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+}
+button, textarea { font: inherit; }
+.spinner { width: 1em; height: 1em; border: 2px solid currentColor; border-right-color: transparent; border-radius: 9999px; animation: spin .75s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
