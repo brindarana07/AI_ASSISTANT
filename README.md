@@ -15,6 +15,7 @@ The app is designed to feel simple and thoughtful, with a clean interface that k
 - Leave lightweight feedback after each answer
 - Built with a simple local-first setup for easy development
 
+
 ## Tech Stack
 
 ### Frontend
@@ -22,6 +23,7 @@ The app is designed to feel simple and thoughtful, with a clean interface that k
 - Vite
 - Axios
 - Tailwind CSS 
+
 
 ### Backend
 - Python
@@ -32,6 +34,7 @@ The app is designed to feel simple and thoughtful, with a clean interface that k
 - python-dotenv
 
 ## Project Structure
+
 
 
 AI-ASSISTANT/
